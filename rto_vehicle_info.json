@@ -4,6 +4,11 @@
 
     "appzy_advShowStatus": "0",
     "appzy_appOpenStatus": "1",
+
+    "appzy_appReviewVersionCodeAdsOnOff": "1",
+    "appzy_appUpdateTransferLink": "1",
+    "appzy_appUpdateDialog": "0",
+    "appzy_appVerCode": "1",
     
     "appzy_interstialStatus": "1",
     "appzy_nativeStatus": "1",
@@ -40,8 +45,6 @@
     "appzy_startScreen": "1",
     "appzy_backInterShow": "0",
     "appzy_privacyPolicy": "https://techmasterclass2023.blogspot.com/",
-    "appzy_appUpdateDialog": "0",
-    "appzy_appVerCode": "1",
     "appzy_otherAdStatus": "1",
     "appzy_otherAppOpenStatus": "1",
     "appzy_otherInterstitialStatus": "1",

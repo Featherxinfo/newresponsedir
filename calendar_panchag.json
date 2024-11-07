@@ -15,7 +15,7 @@
     "appzy_interstialStatus": "2",
     "appzy_nativeStatus": "1",
     "appzy_bannerStatus": "1",
-    "appzy_nativeOrBannerBigAd": "2",
+    "appzy_nativeOrBannerBigAd": "1",
     "appzy_nativeOrBannerSmallAd": "1",
 
     "appzy_nativeBigOnDemandAd": "1",
@@ -45,7 +45,7 @@
     "appzy_nativeExitAd": "1",
     "appzy_privacyScreen": "1",
     "appzy_backInterShow": "0",
-    "appzy_privacyPolicy": "https://sites.google.com/view/rtovehicleinfoprivacy",
+    "appzy_privacyPolicy": "https://sites.google.com/view/featherx/home",
     "appzy_otherAdStatus": "0",
     "appzy_otherAppOpenStatus": "0",
     "appzy_otherInterstitialStatus": "0",
@@ -89,7 +89,7 @@
     "appzy_guj_10": "g10",
     "appzy_guj_11": "g11",
     "appzy_guj_12": "g12",
-    
+    "maintab": "0",
     "appzy_otherAdData": [
       {
         "appzy_cust_name": "",

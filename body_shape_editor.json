@@ -5,7 +5,7 @@
     "appzy_advShowStatus": "1",
     "appzy_appOpenStatus": "1",
 
-    "appzy_appReviewVersionCodeAdsOnOff": "1",
+    "appzy_appReviewVersionCodeAdsOnOff": "4",
 
     
     "appzy_appUpdateTransferLink": "https://play.google.com/store/apps/details?id=com.vehicleregistrationdetails.rtovehicleinformation.drivinglicenceapplyonline",
@@ -22,10 +22,10 @@
     "appzy_bannerBottomOnDemandAd": "1",
     "appzy_load_otherAd_beforeAd": "0",
 
-    "appzy_appOpenId": "/21775744923/example/app-open",
-    "appzy_bannerId": "/21775744923/example/adaptive-banner",
-    "appzy_interstitialId": "/21775744923/example/interstitial",
-    "appzy_nativeId": "/21775744923/example/native",
+    "appzy_appOpenId": "ca-app-pub-2546308591763199/8457670016",
+    "appzy_bannerId": "ca-app-pub-2546308591763199/5017118457",
+    "appzy_interstitialId": "ca-app-pub-2546308591763199/5358500432",
+    "appzy_nativeId": "ca-app-pub-2546308591763199/2299455772",
 
     "appzy_forwardClick": "3",
     "appzy_backClick": "0",

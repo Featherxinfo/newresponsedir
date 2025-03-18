@@ -1,0 +1,105 @@
+{
+  "Note_For_appzy_interstialStatus":" 0 - off, 1 - on, 2 - on Demand",
+  "data": {
+
+    "appzy_advShowStatus": "1",
+    "appzy_appOpenStatus": "1",
+
+    "appzy_appReviewVersionCodeAdsOnOff": "2",
+
+    
+    "appzy_appUpdateTransferLink": "https://play.google.com/store/apps/details?id=com.vehicleregistrationdetails.rtovehicleinformation.drivinglicenceapplyonline",
+    "appzy_appUpdateDialog": "0",
+    "appzy_appVerCode": "4",
+    
+    "appzy_interstialStatus": "2",
+    "appzy_nativeStatus": "1",
+    "appzy_bannerStatus": "1",
+    "appzy_nativeOrBannerBigAd": "2",
+    "appzy_nativeOrBannerSmallAd": "2",
+
+    "appzy_nativeBigOnDemandAd": "1",
+    "appzy_bannerBottomOnDemandAd": "1",
+    "appzy_load_otherAd_beforeAd": "0",
+
+    "appzy_appOpenId": "ca-app-pub-2546308591763199/6256649139",
+    "appzy_bannerId": "ca-app-pub-2546308591763199/1269445134",
+    "appzy_interstitialId": "ca-app-pub-2546308591763199/8882812475",
+    "appzy_nativeId": "ca-app-pub-2546308591763199/7340029466",
+
+    "appzy_forwardClick": "3",
+    "appzy_backClick": "0",
+    "appzy_securityWarning": "1",
+    "appzy_splashTime": "14",
+    "appzy_forceInternet": "1",
+    "appzy_viewAdLoadDialog": "0",
+    "appzy_playStoreRate": "1",
+    "appzy_normalRate": "1",
+    "appzy_nativeSBoxColor": "ffffff",
+    "appzy_nativeBgClr": "FAEBD7",
+    "appzy_nativeTitleClr": "000000",
+    "appzy_nativeButtonClr": "2196f3",
+    "appzy_nativeDescClr": "000000",
+    "appzy_nativeBox": "1",
+    "appzy_bannerBox": "1",
+    "appzy_nativeExitAd": "1",
+    "appzy_privacyScreen": "1",
+    "appzy_backInterShow": "0",
+    "appzy_privacyPolicy": "https://sites.google.com/view/featherx/home",
+    "appzy_otherAdStatus": "0",
+    "appzy_otherAppOpenStatus": "0",
+    "appzy_otherInterstitialStatus": "0",
+    "appzy_otherNativeBannerStatus": "0",
+
+    "appzy_hindi_1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomX4RYIpi1ruh0_QrsW-GwPJMfm1Ys_tHSMA2qo3e7g8bJrifobPQPSBXgzAZaMWOeo9YdG8u1a3IOOIxTYhLqyUJgS-6r1gqmafZsU5qICBXy5cWDr4Owed9zRn87GTv85-6zQGL36hAuM7oEfklQzpf4NWmIY-lu5fHkm2txlJasPJz2O7NP-sx1Z1J/s4656/jan.jpg",
+    "appzy_hindi_2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO4pYPL33MhAPvHHYZipx1B7JRKoW6iafLBFuIvHFX6HKf7iRlAbQmKjzgEka2ayYJK4JXBmUl1UlvsWv8YDrcGrVrDTtvskbOZzVQtScfL_QBzubGanxJNuXKXUVXUi9bD4l2pMXD5t4XpQQLaJWS6oSSotnEbr33Rc3eqddOnCNKYbvyOlcS4xVhTKFX/s4384/feb.jpg",
+    "appzy_hindi_3": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrMDKTqSfjEUoNdxANAKPebjt8yXI0UcMYlliYtvqnaY7GCtFDeYcanPHDiMcy6LWdAGHJsPOu9IjjdqNowi_boXplhvQTyu4aG7gMptODJ7H3xz8Jdw24cAKJeQbxLtSdSW34JTfXtNL24MFag0v_DoyDDLaY2xJS7aTVOfb7oTKFpKvPlt1J1hJK7DNX/s4316/mar.jpg",
+    "appzy_hindi_4": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXqs3OwVoIPNVR9W3w1rvv6VfxLCrI5yy-oQa3xbFFpDRRs_cas0WpRJKBopiwQjQWyleBK-4oheVtWeQ-jv_tx747p5QxoL5dOGwRUpU0aMjU1ZaO2B3-z-dTYxUwMGZ5xJewkN8wyoIYsaqoW9cQwr3tki-OYpVAGcyzw6oBGE9ttxqBmK0Y_o1xQR-n/s4336/apr.jpg",
+    "appzy_hindi_5": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL4xg5KkKY01ILguXJw7w6A-B4HjyloUB1Aqc9D4UKmuBy3FjRMqi7gDU0jK8FOPhzEDJtzflrpR5kIVyvSe1WsmYlg3UFJnfd1rcW-3PgC5lWYzpLXCEWFTil64C9zGJw5jihdhv-KbtVobYFQBNsTPeZeX4k8iMk_HrjUGPt4mxPNeZeyFA0JugPxFXX/s4304/may.jpg",
+    "appzy_hindi_6": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7KzxOGmsoLfJjzDQAyiuYiQmYFlPY1WLGMPuMs3xhCEzkH76_qQ0veg79TaBa-PXi2-O_yVKDjESQfOKt3US71zjsrBWu3FQyqPXSs9YrBwhAZR_mxMXtLXz65yZIYIHLq1Qz5XC-GRa6mKus8cAn8MhyphenhyphenBK38PQPBNz_3v5mLlTSYjPYRay9Z-yWOGOKz/s3900/june.jpg",
+    "appzy_hindi_7": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkX2fU0KEmyxQe29zdZXBWAF1UOERuIu5BuoZcTW6CniB4jStcYW4af8MFm6DUdOq_0oTfxq5G69w-TCF9FhwBn9xJG6yh21vJUN21MR6qNvbdCgFDW6oh_V-7v3wAlqpZpiExBm_If9wRVr2BDdZCLCfDdCkoLIBvQXTCUbKiGQXRc6zbkLDbn76iPw-b/s3860/july.jpg",
+    "appzy_hindi_8": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXaZ-DfJYDjM4OXMqElegoAluLw2-a3cFz9vrm2p6OWJrOtDH-G9_KODpmPjGNJh5AufU7DxqsrkEvE1nPiaj0xvmzfnhtzHqGBOmfK6HclOUA2VCR12CZTveVCqid6GpIajFfe-bxczG_lJC131_2yehyphenhyphenU9wAN4GcTdn1nxUL_wswfa-qV-IO9iisu6wl/s4444/aug.jpg",
+    "appzy_hindi_9": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAK6F1N8s_EvKyFW3AOupELYc8sBjExZLtbli-5-vmoBQe4bx7RYFTf6juehOQkjdpRW_uWZJ7_NwQBPXcSWToueCr0j1M11nXuc35sXEnqPueX7O4GWApqlBVWIA4vPfU9WEV14ek-oMyLDqUsLbe2ecnFOd4JSGMP0fM_xluCxtzZFfRA9NyxMDIGU1d/s4448/sep.jpg",
+    "appzy_hindi_10": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg32TcJxBAqswBI-Rq1Ehnyjv-M3ialnXwm0uy_s-k20OB1CMTZReW3OxgXehhRDn3nkmkKTCGX5292_mlViQGRKt27tbyTF36BxMqYOSRhhUsIkQwJ8pVzVvhZG23-zBQCOL37gOyK6vUEegRPMt01l6FNO-RSLio17gn1kxDdctu-Z25l0HERUcBgbhJ1/s4416/oct.jpg",
+    "appzy_hindi_11": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlahy0rM2lyHlcgbex9r_CMrRoHRCWm1P8EH4WQXLsy9Gu_waS-3X3iODvHI1smKk3PbH1wf5_MVDlA_Zfw4NVtYsCcZJ8l2QCB9Cych9FlB_-hkHZpFlRbwJeTbEvcOsYOdqIE1smI_ZnEbzeRU2bgiZdN3m6lWqIr_WYRYG_GVEHwdOFMrb23LI9nIfN/s3876/nov.jpg",
+    "appzy_hindi_12": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOaNCRMq1l38hOqTb7Sr8RwyMAhjsSUw51y2lgZ8eAQNsvB4_WC60qxpr5HG9Jrn8Xl7TOzH0UFCrk_PM95g4trdaD-oTwK-wfotGP8jCWR-4to0md93-SJI_wSi2P5aOUsXkUAo9UjVA4fu9v2mlqvobdUFyXpRRUxI1PcEX1LmU09PV0NS-ab5eUwHrO/s4460/dec.jpg",
+
+    "appzy_eng_1": "e1",
+    "appzy_eng_2": "e2",
+    "appzy_eng_3": "e3",
+    "appzy_eng_4": "e4",
+    "appzy_eng_5": "e5",
+    "appzy_eng_6": "e6",
+    "appzy_eng_7": "e7",
+    "appzy_eng_8": "e8",
+    "appzy_eng_9": "e9",
+    "appzy_eng_10": "e10",
+    "appzy_eng_11": "e11",
+    "appzy_eng_12": "e12",
+
+    "appzy_guj_1": "g1",
+    "appzy_guj_2": "g2",
+    "appzy_guj_3": "g3",
+    "appzy_guj_4": "g4",
+    "appzy_guj_5": "g5",
+    "appzy_guj_6": "g6",
+    "appzy_guj_7": "g7",
+    "appzy_guj_8": "g8",
+    "appzy_guj_9": "g9",
+    "appzy_guj_10": "g10",
+    "appzy_guj_11": "g11",
+    "appzy_guj_12": "g12",
+    "maintab": "0",
+    "appzy_otherAdData": [
+      {
+        "appzy_cust_name": "",
+        "appzy_cust_url": "",
+        "appzy_cust_appopen_image": "",
+        "appzy_cust_interstitial_image": "",
+        "appzy_cust_small_native_image": "",
+        "appzy_cust_native_image": "",
+        "appzy_cust_bigBanner_image": ""
+      }
+    ]
+  }
+} 

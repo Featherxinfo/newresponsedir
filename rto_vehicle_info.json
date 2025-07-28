@@ -50,6 +50,10 @@
     "appzy_otherAppOpenStatus": "0",
     "appzy_otherInterstitialStatus": "0",
     "appzy_otherNativeBannerStatus": "0",
+    "appzy_forwardClick": "3",
+    "appzy_mainurl": "https://q9y00zqnu8.execute-api.ap-south-1.amazonaws.com/prod/",
+    "appzy_userid": "9727201160",
+    "appzy_hash": "9de3745c4e13c023cfe3463ddf7af946730a8d8576e90c23cd7d099991888d1daf",
     "appzy_otherAdData": [
       {
         "appzy_cust_name": "",

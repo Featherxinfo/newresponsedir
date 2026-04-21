@@ -27,6 +27,13 @@
     "appzy_interstitialId": "ca-app-pub-2546308591763199/9985709454",
     "appzy_nativeId": "ca-app-pub-2546308591763199/8982984514",
 
+    "appzy_mainBaseUrlForRc": "https://www.tradetu.com/rto/api/v_N/"
+    "appzy_mainBasePackage": "com.tradetu.trendingapps.vehicleregistrationdetails",
+    "appzy_appVersionName": "1.0.1.169",
+    "appzy_appVersionCode": "169",
+    "appzy_mainBaseChalla":  "https://www.cars24.com/traffic-challan-partner/?utm_source=Partner&utm_medium=App&utm_campaign=RTO_VehicleInformation",
+    "appzy_baseFcmToken": "ec1a8f7284383469356aaa6129c356aa0a1150c4d0e0ad704e1bec1f53062644299b61e0a20bde1acc0e7278ae6180e607af3a989da188e110e49f969fe7c432",
+
     "appzy_forwardClick": "3",
     "appzy_backClick": "0",
     "appzy_securityWarning": "1",

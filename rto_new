@@ -1,1 +1,77 @@
 
+{
+  "Note_For_appzy_interstialStatus":" 0 - off, 1 - on, 2 - on Demand",
+  "data": {
+
+    "appzy_advShowStatus": "1",
+    "appzy_appOpenStatus": "1",
+
+    "appzy_appReviewVersionCodeAdsOnOff": "14",
+
+    
+    "appzy_appUpdateTransferLink": "https://play.google.com/store/apps/details?id=com.vehicleregistrationdetails.rtovehicleinformation.drivinglicenceapplyonline",
+    "appzy_appUpdateDialog": "1",
+    "appzy_appVerCode": "14",
+    
+    "appzy_interstialStatus": "2",
+    "appzy_nativeStatus": "1",
+    "appzy_bannerStatus": "1",
+    "appzy_nativeOrBannerBigAd": "2",
+    "appzy_nativeOrBannerSmallAd": "1",
+
+    "appzy_nativeBigOnDemandAd": "1",
+    "appzy_bannerBottomOnDemandAd": "1",
+    "appzy_load_otherAd_beforeAd": "0",
+
+    "appzy_appOpenId": "ca-app-pub-2546308591763199/7669902842",
+    "appzy_bannerId": "ca-app-pub-2546308591763199/7786883533",
+    "appzy_interstitialId": "ca-app-pub-2546308591763199/9985709454",
+    "appzy_nativeId": "ca-app-pub-2546308591763199/8982984514",
+
+    "appzy_mainBaseUrlForRc": "https://www.tradetu.com/rto/api/v_N/",
+    "appzy_mainBasePackage": "com.tradetu.trendingapps.vehicleregistrationdetails",
+    "appzy_appVersionName": "1.0.1.169",
+    "appzy_appVersionCode": "169",
+    "appzy_mainBaseChallan": "https://www.cars24.com/traffic-challan-partner/?utm_source=Partner&utm_medium=App&utm_campaign=RTO_VehicleInformation",
+    "appzy_baseFcmToken": "ec1a8f7284383469356aaa6129c356aa0a1150c4d0e0ad704e1bec1f53062644299b61e0a20bde1acc0e7278ae6180e607af3a989da188e110e49f969fe7c432",
+
+    "appzy_forwardClick": "3",
+    "appzy_backClick": "0",
+    "appzy_securityWarning": "1",
+    "appzy_splashTime": "14",
+    "appzy_forceInternet": "1",
+    "appzy_viewAdLoadDialog": "0",
+    "appzy_playStoreRate": "1",
+    "appzy_normalRate": "1",
+    "appzy_nativeSBoxColor": "ffffff",
+    "appzy_nativeBgClr": "FAEBD7",
+    "appzy_nativeTitleClr": "000000",
+    "appzy_nativeButtonClr": "2196f3",
+    "appzy_nativeDescClr": "000000",
+    "appzy_nativeBox": "1",
+    "appzy_bannerBox": "1",
+    "appzy_nativeExitAd": "0",
+    "appzy_privacyScreen": "1",
+    "appzy_backInterShow": "0",
+    "appzy_privacyPolicy": "https://sites.google.com/view/rtovehicleinfoprivacy",
+    "appzy_otherAdStatus": "0",
+    "appzy_otherAppOpenStatus": "0",
+    "appzy_otherInterstitialStatus": "0",
+    "appzy_otherNativeBannerStatus": "0",
+    "appzy_forwardClick": "3",
+    "appzy_mainurl": "https://q9y00zqnu8.execute-api.ap-south-1.amazonaws.com/prod/",
+    "appzy_userid": "9727201160",
+    "appzy_hash": "9de3745c4e13c023cfe3463ddf7af946730a8d8576e90c23cd7d099991888d1daf",
+    "appzy_otherAdData": [
+      {
+        "appzy_cust_name": "",
+        "appzy_cust_url": "",
+        "appzy_cust_appopen_image": "",
+        "appzy_cust_interstitial_image": "",
+        "appzy_cust_small_native_image": "",
+        "appzy_cust_native_image": "",
+        "appzy_cust_bigBanner_image": ""
+      }
+    ]
+  }
+} 

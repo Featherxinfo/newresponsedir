@@ -22,10 +22,10 @@
     "appzy_bannerBottomOnDemandAd": "1",
     "appzy_load_otherAd_beforeAd": "0",
 
-    "appzy_appOpenId": "ca-app-pub-2546308591763199/7669902842",
-    "appzy_bannerId": "ca-app-pub-2546308591763199/7786883533",
-    "appzy_interstitialId": "ca-app-pub-2546308591763199/9985709454",
-    "appzy_nativeId": "ca-app-pub-2546308591763199/8982984514",
+    "appzy_appOpenId": "ca-app-pub-2546308591763199/5518902632",
+    "appzy_bannerId": "ca-app-pub-2546308591763199/7287279870",
+    "appzy_interstitialId": "ca-app-pub-2546308591763199/4070089596",
+    "appzy_nativeId": "ca-app-pub-2546308591763199/5371032746",
 
     "appzy_mainBaseUrlForRc": "https://www.tradetu.com/rto/api/v_N/",
     "appzy_mainBasePackage": "com.tradetu.trendingapps.vehicleregistrationdetails",

@@ -8,7 +8,7 @@
     "appzy_appReviewVersionCodeAdsOnOff": "0",
 
     
-    "appzy_appUpdateTransferLink": "https://play.google.com/store/apps/details?id=com.vehicleregistrationdetails.rtovehicleinformation.drivinglicenceapplyonline",
+    "appzy_appUpdateTransferLink": "",
     "appzy_appUpdateDialog": "0",
     "appzy_appVerCode": "4",
     
@@ -45,7 +45,7 @@
     "appzy_nativeExitAd": "1",
     "appzy_privacyScreen": "1",
     "appzy_backInterShow": "0",
-    "appzy_privacyPolicy": "https://sites.google.com/view/smartyappssolutions/home",
+    "appzy_privacyPolicy": "https://sites.google.com/view/fittrack-terms-privacy-policy/home",
     "appzy_otherAdStatus": "0",
     "appzy_otherAppOpenStatus": "0",
     "appzy_otherInterstitialStatus": "0",
